@@ -171,41 +171,6 @@ The Power BI dashboard includes:
 
 ---
 
-## Project Structure
-
-```
-Travel-Hospitality-Analysis/
-│
-├── data/
-├── outputs/
-├── notebooks/
-│   ├── week1_cleaning.ipynb
-│   ├── week2_eda.ipynb
-│   └── week3_model.ipynb
-│
-├── sql/
-│   ├── basic_queries.sql
-│   └── advanced_queries.sql
-│
-├── dashboard/
-│   └── dashboard.pbix
-│
-├── docs/
-│   ├── eda_insights.md
-│   ├── model_insights.md
-│   ├── business_recommendations.md
-│   └── final_report.md
-│
-├── presentation/
-│   └── Hotel_Booking_Analysis.pptx
-│
-├── screenshots/
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## Future Enhancements
 
 - Improve prediction accuracy using ensemble models such as Random Forest and XGBoost.

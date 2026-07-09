@@ -111,16 +111,14 @@ The dataset contains historical hotel booking records, including:
 
 The Power BI dashboard includes:
 
-- Executive Dashboard
-  - Total Bookings
-  - Cancellation Rate
-  - Average ADR
-  - Average Stay Duration
-
 - Booking & Revenue Analysis
   - Monthly Bookings
   - Monthly ADR
   - Seasonal Demand
+
+ <img width="1278" height="719" alt="image" src="https://github.com/user-attachments/assets/b1bd2f57-b3be-476e-9e76-097204eaaff4" />
+
+---
 
 - Cancellation Analysis
   - Hotel Type vs Cancellation
@@ -128,10 +126,17 @@ The Power BI dashboard includes:
   - Market Segment vs Cancellation
   - Planner Type vs Cancellation
 
+<img width="1278" height="718" alt="image" src="https://github.com/user-attachments/assets/9f37ea71-e31f-44d2-bc1f-13c1a421276b" />
+
+---
+
 - Customer Segmentation
   - Leisure vs Corporate
   - Early Planner vs Last-Minute
   - Average Stay by Customer Type
+
+ 
+<img width="1277" height="721" alt="image" src="https://github.com/user-attachments/assets/1931df1a-30ac-4d32-90e9-6ba9c1f2f811" />
 
 ---
 
